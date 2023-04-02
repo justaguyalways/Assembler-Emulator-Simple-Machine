@@ -1,0 +1,9 @@
+line 3 duplicate label
+line 4 unidentified label
+line 5 not a number
+line 6 missing operand
+line 7 unexpected extra operands/characters in the end of line
+line 8 unexpected extra operands/characters in the end of line
+line 9 invalid label format
+line 10 bogus instruction
+line 11 bogus instruction

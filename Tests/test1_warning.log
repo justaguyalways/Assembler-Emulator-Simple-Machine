@@ -1,0 +1,3 @@
+Warning: no HALT instruction found
+Warning: line 5 caused segmentation fault(can be caused by a infinite loop)
+
